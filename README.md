@@ -2,7 +2,11 @@
 ## Folder Structure
  
 1. Assignment
-   - Team Lead
-   - Team Member 1
-   - Team Member 2
-   - Team Member 3
+   - Team Lead(folder)
+   - Team Member 1(folder)
+   - Team Member 2(folder)
+   - Team Member 3(folder)
+2. Performance & Final Submission Phase
+   - Projct Demo video
+   - Project Report
+3.      
