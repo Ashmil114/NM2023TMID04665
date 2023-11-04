@@ -9,4 +9,9 @@
 2. Performance & Final Submission Phase
    - Projct Demo video
    - Project Report
-3.      
+3. Project design & planning
+   - Ideation
+      - Empathy map
+   - Project Design Phase Part-1
+   - Project Design Phase Part-2
+   - Project Development Phase
