@@ -9,6 +9,12 @@ volunteer participation, fund raising and economic development. Most
 importantly, events create a sense of fun and vibrancy, resulting in a strong
 sense of community connectivity, pride and a sense of place.
 
+## Team Members 
+ - Team Lead     : Ashmil K
+ - Team Member 1 : Abhiram Suresh
+ - Team Member 2 : Athul Raj
+ - Team Member 3 : Mubashir P A
+
 ## Folder Structure
  
 ### 1. Assignment
